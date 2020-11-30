@@ -4,6 +4,9 @@ I live in Istanbul and work as a software development specialist at <a href="htt
 
 You can reach me from the social media accounts below.
 
+<a href="https://twitter.com/yisleyen">Twitter</a>
+<a href="https://www.linkedin.com/in/yisleyen">Linkedin</a>
+
 <!--
 **yisleyen/yisleyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
