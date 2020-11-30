@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I live in Istanbul and work as a software development specialist at MobilCadde. I am making improvements with .NET technologies. I'm doing little experiments with Go and Python, and I'm trying to improve myself in these languages.
+
+You can reach me from the social media accounts below.
+
 <!--
 **yisleyen/yisleyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
